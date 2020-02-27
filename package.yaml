@@ -70,3 +70,5 @@ tests:
       - -with-rtsopts=-N
     dependencies:
       - fabric-chaincode-haskell
+      - tasty
+      - tasty-hunit
